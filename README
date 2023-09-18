@@ -1,0 +1,30 @@
+# Projeto de Teste com Pactum
+
+Este projeto demonstra como criar testes de API usando PactumJS
+
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
+
+- [Node.js](https://nodejs.org/): 
+- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+
+## Configuração
+
+1. Clone este repositório:
+
+   ```bash
+   git clone 
+   cd seu-projeto-pactum
+
+2. Instale as dependências do projeto
+
+npm install
+# ou
+yarn install
+
+3. Executando os testes 
+
+npm run test ./tests
+
+
